@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adnuka
-- 👀 I’m interested in data science and machine learning models. 
+- 👀 I’m interested in data science, machine learning models and trying to learn OOP.  
 - 🌱 I’m currently learning python, R and SQL.
 - 📫 How to reach me twitter:ademnumankaya or ademnumankaya@gmail.com
 
