@@ -1,7 +1,7 @@
 <h1 align="center">Hi, this is adnuka</h1>
 <h3 align="center">Working as Data Analyst</h3>
 
-- 🌱 I’m currently learning **PowerBI, SQL(MySQL & MSSQL), AWS(RDS, S3), Streamlit, Deployment**
+- 🌱 I’m currently working with **PowerBI, SQL(MySQL & MSSQL), Python, AWS(RDS, S3), Streamlit, Docker**
 
 - 👨‍💻 One of the my interesting project: [https://istanbuldayasamak.herokuapp.com/](https://istanbuldayasamak.herokuapp.com/)
 
